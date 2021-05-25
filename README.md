@@ -10,7 +10,7 @@
 
 <h2>Установка</h2>
 <ol>
-<li>Скачайте последнюю версию модуля https://github.com/fant-tom/diafan.cms-payment-module</li>
+<li>Скачайте последнюю версию модуля https://github.com/fantTom/diafan.cms-payment-module</li>
 <li>Распакуйте и загрузите директорию modules/payment/backend в вашей установки DIAFAN.CMS</li>
 <li>После установки зайдите в панель администратора DIAFAN.CMS в раздел «Оплата»</li>
 <li>На открывшейся странице «Методы оплаты» нажмите «Добавить».</li>
